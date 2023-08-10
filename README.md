@@ -14,4 +14,7 @@
 - ``php artisan make:migration create_flights_table``
 - ``php artisan migrate:make add_paid_to_users``
  - ``php artisan make:migration add_paid_to_users_table --table=users``
-- ``php artisan make:model student -mcrfs``
+- ``php artisan make:model student -mcrfs``**model binding**
+
+- ``php artisan make:controller ProductController -r`` **attributes binding**
+
